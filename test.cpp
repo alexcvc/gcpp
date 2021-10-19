@@ -22,7 +22,7 @@
 //
 //----------------------------------------------------------------------------
 
-#include "deferred_allocator.h"
+#include <gcpp/deferred_allocator.h>
 using namespace gcpp;
 
 #include <iostream>
@@ -30,6 +30,7 @@ using namespace gcpp;
 #include <set>
 #include <array>
 #include <chrono>
+#include <cassert>
 using namespace std;
 
 

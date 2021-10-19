@@ -1,5 +1,5 @@
 
-#include "deferred_allocator.h"
+#include "gcpp/deferred_allocator.h"
 using namespace gcpp;
 
 #include <iostream>
